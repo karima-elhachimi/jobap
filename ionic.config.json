@@ -1,6 +1,6 @@
 {
   "name": "jobap",
-  "app_id": "",
+  "app_id": "d7047bf8",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
